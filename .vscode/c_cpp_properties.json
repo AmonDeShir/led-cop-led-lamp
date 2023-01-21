@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "LinuxAvr32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "__AVR_ATtiny461__"
+            ],
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-x86",
+            "compilerPath": "/bin/avr-gcc"
+        }
+    ],
+    "version": 4
+}
